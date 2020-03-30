@@ -1,0 +1,8 @@
+<%- include('header'); -%>
+
+  <% for (let i=0; i<posts.length; i++) { %>
+    <section>
+      <%- include('blogpost', {post: posts[i], index: i}); -%>
+    </section>
+  <% } // close forloop %>
+<%- include('footer'); -%>

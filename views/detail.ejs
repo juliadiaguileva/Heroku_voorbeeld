@@ -1,0 +1,14 @@
+<%- include('header'); -%>
+
+<article>
+
+  <% for(let t=0; t<post.tags.length; t++) { %>
+    <span><%=post.tags[t] %></span>
+  <% } // end forloop %>
+  <date><%=post.date %></date>
+  <p><%=post.description %></p>
+  <address class="author"><%=post.author %></address>
+  <img src="<%=post.images %>" />
+
+
+</article>
