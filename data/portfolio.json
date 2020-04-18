@@ -1,89 +1,89 @@
 {
   "images": [{
-   "title": "A Proun",
+   "title": "El Lissitzky",
    "date": "1925",
-   "author": "El Lissitzky",
+   "author": "A Proun",
    "tags": ["art", "constructivism", "textile designer", "poster art", "3D"],
    "medium": "ink",
    "images":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/A_Prounen_by_El_Lissitzky_c.1925.jpg/220px-A_Prounen_by_El_Lissitzky_c.1925.jpg"
   },{
-  "title": "Vertical-Horizontal Composition",
+  "title": "SOPHIE TAEUBER",
   "date": "1916",
-  "author": "SOPHIE TAEUBER",
+  "author": "Vertical-Horizontal Composition",
   "tags": ["art", "constructivism", "textile designer"],
   "medium": "fabric",
   "images":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sophie_Taeuber-Arp_Vertical-Horizontal_Composition_1916.jpg/463px-Sophie_Taeuber-Arp_Vertical-Horizontal_Composition_1916.jpg"
   },{
-    "title": "Red and Blue Chair",
+    "title": "Gerrit Rietveld",
     "date": "1918",
-    "author": "Gerrit Rietveld",
+    "author": "Red and Blue Chair",
     "tags": ["art", "constructivism", "de stijl"],
     "description": "It represents one of the first explorations by the De Stijl art movement in three dimensions",
     "medium": "Lacquered wood",
     "images":"http://3.bp.blogspot.com/_sKpkmBkdeVM/SHtRFgMHlaI/AAAAAAAAD_E/-DcPW9LMpQc/s1600/Rietveld+chair.jpg"
   },{
-   "title": "Boogie Woogie",
+   "title": "Piet Mondriaan",
    "date": "1942",
-   "author": "Piet Mondriaan",
+   "author": "Boogie Woogie",
    "tags": ["art", "constructivism", "installation","oilpainting"],
    "description": "Victory Boogie Woogie is the last unfinished work of the Dutch abstract painter Piet         Mondrian",
    "medium": "oil on canvas",
   "images":"https://s.s-bol.com/imgbase0/imagebase3/large/FC/6/8/7/8/9200000101548786.jpg"
   },{
-   "title": "Relief with One and a Half Line",
+   "title": "Ad Dekkers",
    "date": "1965",
-   "author": "Ad Dekkers",
+   "author": "Relief with One and a Half Line",
    "tags": ["art", "constructivism", "installation","space"],
    "description": "NEW DUTCH CONSTRUCTIVISM",
    "medium": "painted board relief",
    "images":"https://image.invaluable.com/housePhotos/aag/54/626054/H0528-L144546207.jpg"
   },{
-    "title": "Raemar pink white",
+    "title": "James Turrell",
     "date": "1969",
-    "author": "James Turrell",
+    "author": "Raemar pink white",
     "tags": ["art", "lighting", "neo","constructivism"],
     "description": "Shallow space construction",
     "medium": "fluorescent light",
     "images":"https://mcontemp.com/wp-content/uploads/2019/08/Turrell.png",
     "content": "Dit is mijn eerste blogbericht"
   },{
-   "title": "Cubist Space",
+   "title": "David Dimichele",
    "date": "1954",
-   "author": "David Dimichele",
+   "author": "Cubist Space",
    "tags": ["art", "constructivism", "installation","space"],
    "medium": ["Archival Pigment Print","Photography"],
    "images":"https://hbcglobalartcollection.com/wp-content/uploads/2018/12/BAF02701_DavidDimichele_Cubist-Space.jpg"
   },{
-    "title": "Tatlin's Tower",
+    "title": "Vladimir Tatlin",
     "date": "1920",
-    "author": "Vladimir Tatlin",
+    "author": "Tatlin's Tower",
     "tags": ["art", "constructivism", "sculpture","architecture"],
     "description": "Tatlin's Tower or the project for the Monument to the Third International (1919–20), was a design for a grand monumental building by the Russian artist and architect Vladimir Tatlin",
     "medium":"wood",
     "images":"https://i.pinimg.com/originals/7d/6c/7a/7d6c7abe1f913371504829361366f9c4.jpg"
 
   },{
-   "title": "Opus Gabo",
+   "title": "Naum Gabo",
    "date": "1950",
-   "author": "Naum Gabo",
+   "author": "Opus Gabo",
    "tags": ["art", "Tate", "drawing"],
    "description": "Naum Gabo (1890–1977) was a constructivist artist who pioneered new ways of making sculpture from plastic glass and metals",
    "medium":"drawing",
    "images":"https://www.tate.org.uk/art/images/work/P/P11/P11384_9.jpg",
    "content": "Dit is mijn eerste blogbericht"
   },{
-    "title": "Suprematism",
+    "title": "Kazimir Malevitch",
     "date": "1915",
-    "author": "Kazimir Malevitch",
+    "author": "Suprematism",
     "tags": ["art", "avant-garde", "constructivism","painting"],
     "description": "Suprematism",
     "medium":"oil on canvas",
     "images":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Kazimir_Malevich_-_Suprematism_-_Google_Art_Project.jpg"
 
   },{
-   "title": "Redtangle Sculpture",
+   "title": "Mindy and Paul RodmanWhite",
    "date": "2019",
-   "author": "Mindy and Paul RodmanWhite",
+   "author": "Redtangle Sculpture",
    "tags": ["art", "constructivisme", "rectangle","sculpture"],
    "description": "Redtangle is a powder coated welded steel geometric sculpture inspired by the Russian Constructivism movement. It is suitable for placement indoors or outdoors mounting clips for use outdoors comes included",
    "medium":["Metal","Paint","Steel"],

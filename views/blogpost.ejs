@@ -1,12 +1,6 @@
 <article>
   <h2><%=post.title %></h2>
-  <% for(var t=0; t<post.tags.length; t++) { %>
-    <span><%=post.tags[t] %></span>
-  <% } //end forloop %>
-  <date><%=post.date %></date>
-  <p><%=post.description %></p>
   <address class="author"><%=post.author %></address>
-  <a href="/portfolio/<%=index %>">afbeelding...</a>
-
-
+  <img src="<%=post.images %>" class="afmeting"/>
+  <div class="more_info"><a href="/portfolio/<%=index %>">MORE INFO --> </a></div>
 </article>
