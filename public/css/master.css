@@ -429,6 +429,7 @@ img{width: 100%;}
 
 .search{width: 1.5rem;display: inline;
 }
+
 .scroll_down{
  top:36em;
  left:56rem;
@@ -437,6 +438,7 @@ img{width: 100%;}
  color: white;
  font-family: helvetica;
  font-size: 3rem;font-size: 30px;
+ display: block;
 }
 
 .line{
