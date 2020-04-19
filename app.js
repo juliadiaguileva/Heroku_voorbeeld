@@ -18,13 +18,7 @@ app.get("/", function(request, response){
   // vanuit de views-map de juiste pagina halen en renderen
   response.render("home");
 });
-app.get("/blog", function(request, response){
-  response.render("blog");
-});
 
-app.get("/blog/:blogid", function(request, response){
-  response.send("blogbericht nr: "+request.params.blogid);
-});
 app.get("/contact", function(request, response){
   response.render("contact");
 });
